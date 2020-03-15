@@ -1,0 +1,24 @@
+  // shortcuts
+    advanced-new-file (shortcuts para crear archivos)
+ 
+ // utilidades
+    GitLens (para integración con git)
+    Live Server (utilidades basicas)
+ 
+ // linters
+    Prettier (code formatter) 
+ 
+ // syntax
+    vscode-styled (syntax highlighter para styled components)
+    MDX (syntax highlighter para .mdx)
+    Babel JavaScript (syntax highlighter para ES201x)
+ 
+ // estilos
+    indent-rainbow (colorea tabs)
+    Bracket Pair Colorizer (para pintar parentesis de colores)
+ 
+ // temas
+    Cyberpunk 1.2.5 -> actual
+    Panda Syntax -> old
+ 
+ 
